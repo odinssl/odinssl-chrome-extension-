@@ -1,1 +1,2 @@
 🛡️ ODINSSL Updated to v.2.1.7
+Rotating Proxy User&Pass: odinsslproxy
