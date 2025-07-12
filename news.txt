@@ -1,1 +1,1 @@
-🔑 Rotating Proxy User&Pass: odinsslproxy
+🔑 Rotating Proxy User:odinsslproxy-rotate Pass: odinsslproxy
